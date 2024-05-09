@@ -1,0 +1,21 @@
+nav {
+  margin-bottom: 20px;
+}
+
+.input-group {
+  display: flex;
+  align-items: center; /* 수직 중앙 정렬 */
+  margin-bottom: 10px; /* 각 input-group 사이의 간격 설정 */
+  width: 300px;
+  padding: 0 30px;
+}
+
+h5 {
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 0 30px;
+}
+
+button {
+  margin: 20px 0 0 100px;
+}
